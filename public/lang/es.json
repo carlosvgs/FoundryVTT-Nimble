@@ -42,6 +42,17 @@
 		"abilityScoreControls": {
 			"confirmStatAssignments": "Confirmar asignación de atributos"
 		},
+		"chat": {
+			"applyHealing": "Aplicar curación",
+			"healing": "Curación",
+			"healingApplied": "Curación aplicada",
+			"undoHealing": "Deshacer curación",
+			"undo": "Deshacer",
+			"noTargetsSelected": "No hay objetivos seleccionados",
+			"healingAlreadyApplied": "La curación ya fue aplicada",
+			"healingUndone": "Curación deshechada",
+			"noHealingRecord": "No se han encontrado registros de curación para deshacer"
+		},
 		"characterCreationStages": {
 			"stepFourStartingEquipment": "Paso 4. Equipo inicial",
 			"stepFiveStats": "Paso 5. Asignar atributos",
@@ -830,9 +841,9 @@
 				"noDeltas": "No se han configurado incrementos de potenciación.",
 				"noChoices": "No hay opciones configuradas.",
 				"addDelta": "Añadir incremento",
-				"removeDelta": "Quitar incremento",
+				"removeDelta": "Eliminar incremento",
 				"addChoice": "Añadir opción",
-				"removeChoice": "Quitar opción",
+				"removeChoice": "Eliminar opción",
 				"choiceLabel": "Elección de etiqueta",
 				"choiceLabelPlaceholder": "e.g. Daño adicional",
 				"deltas": "Incrementos",
