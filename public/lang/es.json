@@ -49,8 +49,8 @@
 			"undoHealing": "Deshacer curación",
 			"undo": "Deshacer",
 			"noTargetsSelected": "No hay objetivos seleccionados",
-			"healingAlreadyApplied": "La curación ya fue aplicada",
-			"healingUndone": "Curación deshechada",
+			"healingAlreadyApplied": "Curación ya aplicada",
+			"healingUndone": "Curación anulada",
 			"noHealingRecord": "No se han encontrado registros de curación para deshacer"
 		},
 		"characterCreationStages": {
